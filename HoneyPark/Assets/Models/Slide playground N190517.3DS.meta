@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: 3387a97c012041a43a41ab671e56353e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Deck
+    100002: Deck Perf
+    100004: Deck Perf0
+    100006: Deck01
+    100008: deck_11247
+    100010: Gengon001
+    100012: Gengon002
+    100014: Gengon003
+    100016: Gengon004
+    100018: Gengon005
+    100020: Gengon006
+    100022: Gengon007
+    100024: Gengon008
+    100026: Gengon009
+    100028: Gengon010
+    100030: ground
+    100032: ground0
+    100034: ground1
+    100036: ground2
+    100038: IC Inner 0
+    100040: IC Inner C
+    100042: lexan_bubb
+    100044: OC Outer 0
+    100046: OC Outer 1
+    100048: OC Outer 2
+    100050: OC Outer 3
+    100052: OC Outer 4
+    100054: OC Outer 5
+    100056: OC Outer C
+    100058: OC Outer c
+    100060: OC Post
+    100062: OC Post0
+    100064: OC Post01
+    100066: OC Post02
+    100068: OC Post03
+    100070: OC Post1
+    100072: OC Post2
+    100074: OC Post3
+    100076: OC Post4
+    100078: OC Post5
+    100080: OC Post6
+    100082: OC Post7
+    100084: perf_bot01
+    100086: perf_mid01
+    100088: perf_up01
+    100090: poly slid0
+    100092: poly slide
+    100094: poly supp0
+    100096: poly suppo
+    100098: //RootNode
+    100100: Tan
+    100102: Tan0
+    100104: Tan01
+    100106: Tan02
+    100108: Tan03
+    100110: Tan1
+    100112: Tan10
+    100114: Tan11
+    100116: Tan12
+    100118: Tan13
+    100120: Tan2
+    100122: Tan3
+    100124: Tan4
+    100126: Tan5
+    100128: Tan6
+    100130: Tan7
+    100132: Tan8
+    100134: Tan9
+    400000: Deck
+    400002: Deck Perf
+    400004: Deck Perf0
+    400006: Deck01
+    400008: deck_11247
+    400010: Gengon001
+    400012: Gengon002
+    400014: Gengon003
+    400016: Gengon004
+    400018: Gengon005
+    400020: Gengon006
+    400022: Gengon007
+    400024: Gengon008
+    400026: Gengon009
+    400028: Gengon010
+    400030: ground
+    400032: ground0
+    400034: ground1
+    400036: ground2
+    400038: IC Inner 0
+    400040: IC Inner C
+    400042: lexan_bubb
+    400044: OC Outer 0
+    400046: OC Outer 1
+    400048: OC Outer 2
+    400050: OC Outer 3
+    400052: OC Outer 4
+    400054: OC Outer 5
+    400056: OC Outer C
+    400058: OC Outer c
+    400060: OC Post
+    400062: OC Post0
+    400064: OC Post01
+    400066: OC Post02
+    400068: OC Post03
+    400070: OC Post1
+    400072: OC Post2
+    400074: OC Post3
+    400076: OC Post4
+    400078: OC Post5
+    400080: OC Post6
+    400082: OC Post7
+    400084: perf_bot01
+    400086: perf_mid01
+    400088: perf_up01
+    400090: poly slid0
+    400092: poly slide
+    400094: poly supp0
+    400096: poly suppo
+    400098: //RootNode
+    400100: Tan
+    400102: Tan0
+    400104: Tan01
+    400106: Tan02
+    400108: Tan03
+    400110: Tan1
+    400112: Tan10
+    400114: Tan11
+    400116: Tan12
+    400118: Tan13
+    400120: Tan2
+    400122: Tan3
+    400124: Tan4
+    400126: Tan5
+    400128: Tan6
+    400130: Tan7
+    400132: Tan8
+    400134: Tan9
+    2100000: standart metal
+    2100002: st tile
+    2100004: st textile
+    2100006: st wood
+    2100008: mat steklo
+    2300000: Deck
+    2300002: Deck Perf
+    2300004: Deck Perf0
+    2300006: Deck01
+    2300008: deck_11247
+    2300010: Gengon001
+    2300012: Gengon002
+    2300014: Gengon003
+    2300016: Gengon004
+    2300018: Gengon005
+    2300020: Gengon006
+    2300022: Gengon007
+    2300024: Gengon008
+    2300026: Gengon009
+    2300028: Gengon010
+    2300030: ground
+    2300032: ground0
+    2300034: ground1
+    2300036: ground2
+    2300038: IC Inner 0
+    2300040: IC Inner C
+    2300042: lexan_bubb
+    2300044: OC Outer 0
+    2300046: OC Outer 1
+    2300048: OC Outer 2
+    2300050: OC Outer 3
+    2300052: OC Outer 4
+    2300054: OC Outer 5
+    2300056: OC Outer C
+    2300058: OC Outer c
+    2300060: OC Post
+    2300062: OC Post0
+    2300064: OC Post01
+    2300066: OC Post02
+    2300068: OC Post03
+    2300070: OC Post1
+    2300072: OC Post2
+    2300074: OC Post3
+    2300076: OC Post4
+    2300078: OC Post5
+    2300080: OC Post6
+    2300082: OC Post7
+    2300084: perf_bot01
+    2300086: perf_mid01
+    2300088: perf_up01
+    2300090: poly slid0
+    2300092: poly slide
+    2300094: poly supp0
+    2300096: poly suppo
+    2300098: Tan
+    2300100: Tan0
+    2300102: Tan01
+    2300104: Tan02
+    2300106: Tan03
+    2300108: Tan1
+    2300110: Tan10
+    2300112: Tan11
+    2300114: Tan12
+    2300116: Tan13
+    2300118: Tan2
+    2300120: Tan3
+    2300122: Tan4
+    2300124: Tan5
+    2300126: Tan6
+    2300128: Tan7
+    2300130: Tan8
+    2300132: Tan9
+    3300000: Deck
+    3300002: Deck Perf
+    3300004: Deck Perf0
+    3300006: Deck01
+    3300008: deck_11247
+    3300010: Gengon001
+    3300012: Gengon002
+    3300014: Gengon003
+    3300016: Gengon004
+    3300018: Gengon005
+    3300020: Gengon006
+    3300022: Gengon007
+    3300024: Gengon008
+    3300026: Gengon009
+    3300028: Gengon010
+    3300030: ground
+    3300032: ground0
+    3300034: ground1
+    3300036: ground2
+    3300038: IC Inner 0
+    3300040: IC Inner C
+    3300042: lexan_bubb
+    3300044: OC Outer 0
+    3300046: OC Outer 1
+    3300048: OC Outer 2
+    3300050: OC Outer 3
+    3300052: OC Outer 4
+    3300054: OC Outer 5
+    3300056: OC Outer C
+    3300058: OC Outer c
+    3300060: OC Post
+    3300062: OC Post0
+    3300064: OC Post01
+    3300066: OC Post02
+    3300068: OC Post03
+    3300070: OC Post1
+    3300072: OC Post2
+    3300074: OC Post3
+    3300076: OC Post4
+    3300078: OC Post5
+    3300080: OC Post6
+    3300082: OC Post7
+    3300084: perf_bot01
+    3300086: perf_mid01
+    3300088: perf_up01
+    3300090: poly slid0
+    3300092: poly slide
+    3300094: poly supp0
+    3300096: poly suppo
+    3300098: Tan
+    3300100: Tan0
+    3300102: Tan01
+    3300104: Tan02
+    3300106: Tan03
+    3300108: Tan1
+    3300110: Tan10
+    3300112: Tan11
+    3300114: Tan12
+    3300116: Tan13
+    3300118: Tan2
+    3300120: Tan3
+    3300122: Tan4
+    3300124: Tan5
+    3300126: Tan6
+    3300128: Tan7
+    3300130: Tan8
+    3300132: Tan9
+    4300000: Gengon001
+    4300002: Gengon002
+    4300004: Gengon004
+    4300006: Gengon003
+    4300008: Gengon005
+    4300010: Gengon007
+    4300012: Gengon009
+    4300014: Gengon010
+    4300016: poly slide
+    4300018: Gengon008
+    4300020: poly slid0
+    4300022: Tan03
+    4300024: Tan02
+    4300026: Tan01
+    4300028: Tan
+    4300030: Tan0
+    4300032: Tan1
+    4300034: Tan2
+    4300036: Tan3
+    4300038: Tan4
+    4300040: Tan5
+    4300042: Tan6
+    4300044: Tan7
+    4300046: Tan8
+    4300048: Tan9
+    4300050: Tan10
+    4300052: Tan11
+    4300054: Tan12
+    4300056: Tan13
+    4300058: OC Post03
+    4300060: OC Post02
+    4300062: OC Post01
+    4300064: OC Post
+    4300066: OC Post0
+    4300068: OC Post1
+    4300070: OC Post2
+    4300072: OC Post3
+    4300074: Gengon006
+    4300076: OC Post4
+    4300078: OC Post5
+    4300080: OC Post6
+    4300082: perf_up01
+    4300084: perf_mid01
+    4300086: perf_bot01
+    4300088: deck_11247
+    4300090: Deck01
+    4300092: Deck Perf0
+    4300094: Deck Perf
+    4300096: Deck
+    4300098: OC Outer c
+    4300100: OC Outer C
+    4300102: OC Outer 0
+    4300104: OC Outer 1
+    4300106: OC Outer 2
+    4300108: OC Outer 3
+    4300110: OC Outer 4
+    4300112: OC Outer 5
+    4300114: lexan_bubb
+    4300116: poly suppo
+    4300118: poly supp0
+    4300120: IC Inner C
+    4300122: IC Inner 0
+    4300124: OC Post7
+    4300126: ground
+    4300128: ground0
+    4300130: ground1
+    4300132: ground2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.002
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
