@@ -15,4 +15,18 @@ At the playground just behind the bench will be an **ant mound** where ants will
 around the floor. 
 
 **StoryBoard**</br>
-To be continued....
+![Layout](/Images/story.jpg) </br>
+The above is the storyboard for this assignment. </br>
+1) This picture will pan the intro to the left side of the park. </br>
+2) This picture will pan the intro to the right side of the park. </br>
+3) This picture shows the two kids running around in the park. </br>
+4) This camera angle will show the bees collecting pollen and ectar from the flowers. </br>
+5) This camera angle will show 1 how the player can attack the beehive. </br>
+and part 2 can show how if you choose to do this, you will be attacked by a swarm of bees. </br>
+6) This camera angle will show the player being chased by bees. For a gameplay point of view i might implement the choice of </br>
+going through a hedgemaze to show how to bees will navigate through it will focusing you. If not the movie will end with the  </br>
+player jumping into the lake to save him/herself from th bees attack </br>
+EXTRA) I might add Barry Bee Benson from the Bee Movie as an easter egg to this assignment but im not sure how serious we need  </br>
+to make this assignment. </br>
+
+
