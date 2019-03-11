@@ -140,8 +140,8 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 707, y: 498}
-  m_MaxSize: {x: 18002, y: 14048}
+  m_MinSize: {x: 709, y: 498}
+  m_MaxSize: {x: 18004, y: 14048}
   vertical: 0
   controlID: 29
 --- !u!114 &7
@@ -168,7 +168,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 42
+  controlID: 30
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -240,8 +240,8 @@ MonoBehaviour:
     y: 0
     width: 344
     height: 731
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 74}
+  m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -421,9 +421,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.217442, y: -0.54287565, z: 1.2871974}
+    m_Target: {x: 8.759598, y: -2.2901802, z: 8.828239}
     speed: 2
-    m_Value: {x: -1.217442, y: -0.54287565, z: 1.2871974}
+    m_Value: {x: 8.759598, y: -2.2901802, z: 8.828239}
   m_RenderMode: 2
   m_CameraMode:
     drawMode: 2
@@ -451,13 +451,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.14709206, y: -0.41926217, z: 0.069043435, w: 0.8932056}
+    m_Target: {x: 0.104301296, y: -0.6858637, z: 0.10030325, w: 0.71319807}
     speed: 2
-    m_Value: {x: 0.14709206, y: -0.41926217, z: 0.069043435, w: 0.8932056}
+    m_Value: {x: 0.104301296, y: -0.6858637, z: 0.10030325, w: 0.71319807}
   m_Size:
-    m_Target: 26.498142
+    m_Target: 15.683542
     speed: 2
-    m_Value: 26.498142
+    m_Value: 15.683542
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -507,19 +507,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Models
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Models
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\sastr\Documents\ComputerScience\Year 4\GE2\Assignment\HoneyPark
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 960d0000
-    m_LastClickedID: 3478
+    m_SelectedIDs: 480b0000
+    m_LastClickedID: 2888
     m_ExpandedIDs: 0000000068090000c60c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -632,9 +632,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 60d2ffff
       m_LastClickedID: 0
-      m_ExpandedIDs: d4fbffff
+      m_ExpandedIDs: 02e5ffffd4fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
