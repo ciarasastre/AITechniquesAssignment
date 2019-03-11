@@ -1,0 +1,38 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class FollowPath : SteeringBehaviour
+{
+    public Path path;
+
+    Vector3 nextWaypoint;
+
+    //This section draws gizmos so you can see target and distance from gameobject
+    public void OnDrawGizmos()
+    {
+        if (isActiveAndEnabled && Application.isPlaying)
+        {
+            Gizmos.color = Color.blue;
+            Gizmos.DrawLine(transform.position, nextWaypoint);
+        }
+    }
+
+    public override Vector3 Calculate()
+    {
+        nextWaypoint = path.NextWaypoint();
+        if (Vector3.Distance(transform.position, nextWaypoint) < 3)
+        {
+            path.AdvanceToNext();
+        }
+
+        if (!path.looped && path.IsLast())
+        {
+            return boid.ArriveForce(nextWaypoint, 20);
+        }
+        else
+        {
+            return boid.SeekForce(nextWaypoint);
+        }
+    }
+}
