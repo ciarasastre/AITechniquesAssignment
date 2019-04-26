@@ -83,7 +83,6 @@ public class Boid : MonoBehaviour
         return force;
     }
 
-
     // Update is called once per frame
     void Update()
     {
