@@ -79,14 +79,14 @@ public class CopsAndRobbers : SteeringBehaviour
     {
         if (col.gameObject.tag == "robber")
         {
-            Debug.Log("Caught the robber");
+           // Debug.Log("Caught the robber");
             this.gameObject.tag = "robber";
             col.gameObject.tag = "cop";
         }
 
         if (col.gameObject.tag == "cop")
         {
-            Debug.Log("Got caught");
+            //Debug.Log("Got caught");
             this.gameObject.tag = "cop";
             col.gameObject.tag = "robber";
         }
