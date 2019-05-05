@@ -36,9 +36,10 @@ public class BirdFlock : MonoBehaviour
 
             transform.LookAt(Destination);
 
-            /*Vector3 direction = Vector3.zero - transform.position;
+            
+            /*Doesnt work properly
             transform.rotation = Quaternion.Slerp(transform.rotation,
-                                                    Quaternion.LookRotation(direction),
+                                                    Quaternion.LookRotation(Vector3.zero - transform.position),
                                                     turnSpeed * Time.deltaTime);*/
 
             //Draw a ray cast to where you are going
