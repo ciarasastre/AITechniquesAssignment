@@ -1411,7 +1411,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 180465588}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 13.8, y: 0, z: -13.72}
+  m_LocalPosition: {x: 29.27, y: 0, z: -2.74}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1103375246}
@@ -3646,7 +3646,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 489580484}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 27.34, y: 0, z: 0}
+  m_LocalPosition: {x: 30, y: 0, z: 13.65}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1103375246}
@@ -5448,6 +5448,36 @@ Transform:
   m_Father: {fileID: 1535942736}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 69.037, z: 0}
+--- !u!1 &674078978
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 674078979}
+  m_Layer: 0
+  m_Name: P6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &674078979
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 674078978}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 13.8, y: 0, z: -13.72}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1103375246}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &683030511
 GameObject:
   m_ObjectHideFlags: 0
@@ -7710,6 +7740,7 @@ Transform:
   - {fileID: 10068608}
   - {fileID: 489580485}
   - {fileID: 180465589}
+  - {fileID: 674078979}
   m_Father: {fileID: 0}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -7850,9 +7881,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b07278d6cb9b2c4a8c4586b3f01c2c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Pollen: 10
-  Bee: {fileID: 825904412}
-  spawnposition: {x: 0, y: 0.7, z: 0}
 --- !u!1 &1164736714
 GameObject:
   m_ObjectHideFlags: 0
@@ -10803,6 +10831,7 @@ MonoBehaviour:
   - {fileID: 10068607}
   - {fileID: 489580484}
   - {fileID: 180465588}
+  - {fileID: 674078978}
   waypointIndex: 0
   birdSpeed: 4
   Destination: {x: 0, y: 0, z: 0}

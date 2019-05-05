@@ -22,7 +22,7 @@ public class BirdFlock : MonoBehaviour
     void Update()
     {
         //Too far get closer
-        if (Vector3.Distance(this.transform.position, waypoints[waypointIndex].transform.position) >= 2)
+        if (Vector3.Distance(this.transform.position, waypoints[waypointIndex].transform.position) >= 5)
         {
             //This is where you are going
             Destination = waypoints[waypointIndex].transform.position;
@@ -40,10 +40,10 @@ public class BirdFlock : MonoBehaviour
             Vector3 distance = Destination - transform.position;
             Debug.DrawRay(transform.position, distance, Color.red);
         }
-        else if (Vector3.Distance(this.transform.position, waypoints[waypointIndex].transform.position) <= 2)
+        else if (Vector3.Distance(this.transform.position, waypoints[waypointIndex].transform.position) <= 5)
         {
             waypointIndex += 1;
-            if (waypointIndex >= 3)
+            if (waypointIndex >= 6)
             {
                 waypointIndex = 0;
             }
