@@ -1,6 +1,28 @@
 # AITechniquesAssignment
 Welcome to HoneyPark! HoneyPark is a playground filled with kids playing, bees busily working and mischief all round!
 
+**Important Note:** The proper file is the HONEYPARKBACKUP FILE the previous one broke and i was too scared to remove it or touch it but the HONEYPARKBACKUP works perfectly fine!</br>
+
+**The Controls** </br>
+Make sure you are on SCENE 2 and press PLAY this will start the cinematic for you. SCENE 1 is just a tester and does nothing!</br>
+
+**How Does Everything Work?** </br>
+There are two groups of kids chasing each other one group of kids uses boids and a trigger event to swap roles and chase the other </br>The next group of kids are controlled using a state machine there is a chase state and a run state depending on how they collide with each other will chage their states. </br>
+The Bees work as a flocking mechanism they are given a certain size box to stay within if they stray too far they must go back in range. The will do their best to group up with their fellow bees to swarm together.</br>
+The birds fly in a normal boid fashion nothing too impressive about them.</br>
+The Camera work was done with creating scenes within Cinemachine the scenes are located in the hierarchy and </br>
+you can view the entire show by clicking the TIMELINE in the hierarchy.</br>
+
+**What tutorials did I use for help?** </br>
+I used Boid and steering behaviours from what we learnt in class. I watched multiple flocking videos on youtube to figure out how to get the bees to swarm (Took a long time for me to understand). Learnt state machines in a youtube video about rpg games and im obsessed with state machines now. Learnt particles from youtube videos as well and after that i played around with the particles to get whatever effect i wanted.</br>
+
+**What am I most proud of?** </br>
+I honestly will say that this assignment is by far my favourite that i have made. Im really proud of how it came out! I have two favourite parts of this cinematic. The first one is the bee segment where "Flight of the bees" gets played and Barry B Benson makes an appearance saying "Dya Like Jazz" quoting a line from The Bee Movie. </br>
+My second favourite part is the ending scene where the kids go to the part late at night and all the bees and birds light up with partile effects. I took so long making these scenes because I genuinly enjoyed making them!
+
+**Video on Youtube** </br>
+[![YouTube](/Images/tn.jpg)](https://www.youtube.com/watch?v=FrmfldXzOHM)
+
 **Layout**</br>
 ![Layout](/Images/layout.jpg) </br>
 
